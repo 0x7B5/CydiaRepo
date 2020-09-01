@@ -1,5 +1,7 @@
-# My Github Pages Website
-Currently using this as a temporary home for my Cydia repository. 
+# My Cydia Repo 
+My cydia repo. This is a pretty barebones cydia repo, I don't have any tweaks
+worth publishing yet so I don't use this repo. It used to be hosted on my github
+pages but I converted that to my blog, since I wasn't using the cydia repo.
 
 ## Authors
 * **Vlad Munteanu**
